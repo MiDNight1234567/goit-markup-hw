@@ -142,7 +142,6 @@ a {
 
 .section-title {
   color: #2e2f42;
-  background-color: #f5f4fa;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -162,10 +161,6 @@ a {
   clip: rect(0 0 0 0);
   clip-path: inset(50%);
   margin: -1px;
-}
-
-.section-portfolio {
-  background-color: #f4f4fd;
 }
 
 .section-list {
