@@ -8,7 +8,7 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #434455;
@@ -26,7 +26,7 @@ a {
 /* Header */
 
 .header-logo {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -92,7 +92,6 @@ a {
 
 .contacts-link {
   font-size: 16px;
-  font-weight: 500;
   line-height: 1.17;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -110,17 +109,15 @@ a {
 }
 
 .hero-title {
-  font-weight: 900;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: var(--color-light);
   text-align: center;
-  text-transform: uppercase;
 }
 
 .hero-button {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -190,7 +187,6 @@ a {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-transform: uppercase;
 }
 
 .benefit-text {
@@ -229,7 +225,7 @@ a {
 }
 
 .footer-logo {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
